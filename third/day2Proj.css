@@ -1,0 +1,50 @@
+
+body {
+	height: 100%;
+	width: 100%;
+}
+.uniform {
+	width: 100%;
+	height: 133px;
+}
+
+
+#top {
+	background-color: #bdbdbd;
+	height: 115px;
+	width: 100%;
+	padding-top: 1px;
+}
+
+#square {
+	height: 100px;
+	background-color: blue;
+	width: 100px;
+	margin: 10px 10px 10px 10px;
+}
+
+#big-white {
+	background-color: white;
+	widows: 100%;
+	height: 235px;
+	text-align: left;
+	font-size: 25px;
+	padding: 15px;
+}
+
+#blue {
+	background-color: blue;
+}
+
+#sea {
+    background-color: #00CED1;
+}
+
+#green {
+    background-color: #A6D785;
+}
+
+#yellow {
+    background-color: #fcfc4b;
+
+}
